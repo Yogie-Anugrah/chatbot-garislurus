@@ -1,8 +1,6 @@
 # 🧠 LurusBot – Chat Markdown Viewer with Gemini API
 
-LurusBot adalah chatbot interaktif berbasis **Next.js App Router**, dengan dukungan **Gemini API** dari Google, **dark/light mode**, dan rendering markdown secara real-time.
-
-![Preview](https://vercel.com/api/www/avatar/project-id) <!-- (opsional: ganti dengan preview URL) -->
+LurusBot adalah chatbot interaktif berbasis **Next.js App Router**, dengan dukungan **Gemini API** dari Google, **dark/light mode**, dan rendering markdown secara real-time.s
 
 ---
 
